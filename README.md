@@ -27,14 +27,14 @@ Please don’t share the link widely during beta — feedback is welcome via [Is
 
 1. Open **[hosepipe.freestar.network](https://hosepipe.freestar.network)**.
 2. Click **Listen** on a talkgroup card, or enter a TG number under **Listen to a talkgroup now**.
-3. Adjust volume in the listening desk (or the floating volume dock on desktop).
+3. Adjust volume in the listening desk (or the floating volume dock on the desktop at the bottom).
 4. Use **Filter talkgroups** or **Country** to narrow the grid.
 
 More detail: [Getting started](docs/getting-started.md)
 
 ## Browser support
 
-Desktop **Chrome** or **Edge** recommended. Mobile works; background audio depends on your device and browser.
+Desktop **Chrome** / **Edge** or **FireFox** recommended. Mobile works; background audio depends on your device and browser.
 
 ## Beta
 
