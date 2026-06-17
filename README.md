@@ -4,6 +4,8 @@
 
 HosePipe is a live DMR talkgroup monitor in the browser. Watch what's active, tune to a talkgroup, and listen in real time.
 
+![HosePipe monitor](assets/screenshot-app.png)
+
 > **Beta** — limited testing. Features and behaviour may change. See [CHANGELOG.md](CHANGELOG.md) for release notes.
 
 ## What it does
