@@ -1,6 +1,6 @@
 # Beta notes
 
-HosePipe is in **limited beta**. Expect rough edges.
+HosePipe is in **limited beta** at [hosepipe.freestar.network](https://hosepipe.freestar.network). Expect rough edges; a wider release is expected soon.
 
 ## What works well
 
@@ -14,9 +14,9 @@ HosePipe is in **limited beta**. Expect rough edges.
 - Mobile background audio is not guaranteed (OS/browser policy)
 - Listener counts reflect HosePipe sessions on that instance, not all external listeners
 
-## Access
+## During beta
 
-Beta is invite-only. This repository documents the product; deployment and hosting are not public.
+Please don’t share the link widely in public forums yet. This repo is product docs and feedback — not a self-hosting guide.
 
 ## Feedback
 

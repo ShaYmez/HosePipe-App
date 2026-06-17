@@ -6,7 +6,13 @@ HosePipe is a live DMR talkgroup monitor in the browser. Watch what's active, tu
 
 ![HosePipe monitor](assets/screenshot-app.png)
 
-> **Beta** — limited testing. Features and behaviour may change. See [CHANGELOG.md](CHANGELOG.md) for release notes.
+> **Limited beta** — live at [hosepipe.freestar.network](https://hosepipe.freestar.network). Features may change; wider release expected soon. See [CHANGELOG.md](CHANGELOG.md).
+
+## Try it
+
+**[hosepipe.freestar.network](https://hosepipe.freestar.network)**
+
+Please don’t share the link widely during beta — feedback is welcome via [Issues](https://github.com/ShaYmez/HosePipe-App/issues).
 
 ## What it does
 
@@ -19,7 +25,7 @@ HosePipe is a live DMR talkgroup monitor in the browser. Watch what's active, tu
 
 ## Quick start
 
-1. Open the HosePipe URL you were given.
+1. Open **[hosepipe.freestar.network](https://hosepipe.freestar.network)**.
 2. Click **Listen** on a talkgroup card, or enter a TG number under **Listen to a talkgroup now**.
 3. Adjust volume in the listening desk (or the floating volume dock on desktop).
 4. Use **Filter talkgroups** or **Country** to narrow the grid.
@@ -30,9 +36,9 @@ More detail: [Getting started](docs/getting-started.md)
 
 Desktop **Chrome** or **Edge** recommended. Mobile works; background audio depends on your device and browser.
 
-## Beta access
+## Beta
 
-HosePipe is invite-only during beta. If you need access, open an [issue](https://github.com/ShaYmez/HosePipe-App/issues) or contact the operator who shared this link.
+HosePipe is in **limited beta** at [hosepipe.freestar.network](https://hosepipe.freestar.network). A wider release is planned soon. Please use it, share feedback, and avoid posting the link in public channels until then.
 
 ## Feedback
 

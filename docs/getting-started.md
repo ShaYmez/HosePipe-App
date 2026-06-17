@@ -1,5 +1,7 @@
 # Getting started
 
+Open **[hosepipe.freestar.network](https://hosepipe.freestar.network)** in your browser (Chrome or Edge on desktop recommended).
+
 ## Listen to a talkgroup
 
 **From a card** — click **Listen** on any talkgroup in the grid.
