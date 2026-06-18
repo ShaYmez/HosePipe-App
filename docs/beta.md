@@ -1,12 +1,13 @@
-# Beta notes
+# Release candidate notes
 
-HosePipe is in **limited beta** at [hosepipe.freestar.network](https://hosepipe.freestar.network). Expect rough edges; a wider release is expected soon.
+HosePipe **0.5.0-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is pre-stable — expect occasional rough edges before the stable release.
 
 ## What works well
 
 - Live talkgroup monitoring and selective listening in the browser
-- Search, filters, and recent activity
-- Desktop Chrome/Edge
+- Country flags, country filter, search, and recent activity
+- Reliable listening across Wi‑Fi and mobile network handoffs (soft reconnect)
+- Desktop Chrome/Edge/Firefox
 
 ## Known limitations
 
@@ -14,9 +15,9 @@ HosePipe is in **limited beta** at [hosepipe.freestar.network](https://hosepipe.
 - Mobile background audio is not guaranteed (OS/browser policy)
 - Listener counts reflect HosePipe sessions on that instance, not all external listeners
 
-## During beta
+## This repo
 
-Please don’t share the link widely in public forums yet. This repo is product docs and feedback — not a self-hosting guide.
+Product documentation and feedback live here — not a self-hosting or deployment guide.
 
 ## Feedback
 

@@ -6,18 +6,19 @@ HosePipe is a live DMR talkgroup monitor in the browser. Watch what's active, tu
 
 ![HosePipe monitor](assets/screenshot-app.png)
 
-> **Limited beta** — live at [hosepipe.freestar.network](https://hosepipe.freestar.network). Features may change; wider release expected soon. See [CHANGELOG.md](CHANGELOG.md).
+> **Release candidate 0.5.0-rc.1** — live at [hosepipe.freestar.network](https://hosepipe.freestar.network). Pre-stable; features may still change. See [CHANGELOG.md](CHANGELOG.md).
 
 ## Try it
 
 **[hosepipe.freestar.network](https://hosepipe.freestar.network)**
 
-Please don’t share the link widely during beta — feedback is welcome via [Issues](https://github.com/ShaYmez/HosePipe-App/issues).
+Feedback is welcome via [Issues](https://github.com/ShaYmez/HosePipe-App/issues).
 
 ## What it does
 
 - Live talkgroup cards — see what's active, idle, or cooling down
 - **Listen** on any talkgroup, even while it's quiet
+- Country flags on cards and a **Country** filter in the header
 - Search and filter by talkgroup, alias, callsign, or country
 - Recent activity trail alongside the live grid
 - Volume control and optional speech clarity for clearer voice
@@ -34,11 +35,10 @@ More detail: [Getting started](docs/getting-started.md)
 
 ## Browser support
 
-Desktop **Chrome** / **Edge** or **FireFox** recommended. Mobile works; background audio depends on your device and browser.
+Desktop **Chrome** / **Edge** or **Firefox** recommended. Mobile works; background audio depends on your device and browser.
+## Release candidate
 
-## Beta
-
-HosePipe is in **limited beta** at [hosepipe.freestar.network](https://hosepipe.freestar.network). A wider release is planned soon. Please use it, share feedback, and avoid posting the link in public channels until then.
+HosePipe **0.5.0-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is not the final stable release yet — please use it, share feedback, and treat the link as pre-release.
 
 ## Feedback
 

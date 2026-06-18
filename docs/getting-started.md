@@ -13,7 +13,7 @@ Open **[hosepipe.freestar.network](https://hosepipe.freestar.network)** in your 
 ## Find talkgroups
 
 - **Filter talkgroups** — search by TG number, alias, callsign, or DMR ID
-- **Country** — narrow the grid by country prefix
+- **Country** — use the dropdown in the header to narrow the grid by country; talkgroup cards also show country flags when known
 
 Cold standby talkgroups are hidden by default; use **Show all standby** if you need them.
 
@@ -26,7 +26,11 @@ The sidebar shows what you're tuned to, listener count, and playback status.
 
 ## Connection status
 
-The status pill in the header shows **Connected**, **Connecting**, or **Reconnecting**. Tap it to retry if you're stuck disconnected.
+The status pill in the header shows:
+
+- **Connected** — monitor and websocket are healthy
+- **Connecting** / **Reconnecting** — establishing or restoring the connection; tap to retry if stuck
+- **SYNCING** — brief indicator while listening during a network handoff; audio should resume automatically
 
 ## Reporting problems
 

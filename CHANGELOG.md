@@ -2,6 +2,16 @@
 
 User-facing release notes for HosePipe.
 
+## 0.5.0-rc.1 — 2026-06-18
+
+Release candidate.
+
+- Country flags on talkgroup cards and a country filter in the header
+- More reliable listening on mobile networks (improved reconnect handling)
+- Mobile layout stays stable while the listening desk is open
+- Card layout and activity trail polish
+- **SYNCING** status only appears during genuine network recovery while listening
+
 ## 0.4.0-beta.3 — 2026-06-17
 
 Beta release for limited user testing.
