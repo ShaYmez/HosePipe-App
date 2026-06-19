@@ -1,11 +1,13 @@
 # Release candidate notes
 
-HosePipe **0.5.0-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is pre-stable — expect occasional rough edges before the stable release.
+HosePipe **0.5.1-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is pre-stable — expect occasional rough edges before the stable release.
 
 ## What works well
 
 - Live talkgroup monitoring and selective listening in the browser
 - Country flags, country filter, search, and recent activity
+- Live audio level (VU) meters while listening
+- Mobile listening bar for volume and status on small screens
 - Reliable listening across Wi‑Fi and mobile network handoffs (soft reconnect)
 - Desktop Chrome/Edge/Firefox
 

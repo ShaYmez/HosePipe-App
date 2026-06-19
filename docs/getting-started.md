@@ -8,7 +8,7 @@ Open **[hosepipe.freestar.network](https://hosepipe.freestar.network)** in your 
 
 **Direct tune** — enter a TG number in **Listen to a talkgroup now** and click **Listen now**. This works even when the talkgroup isn't showing as active.
 
-**Stop** — click **Stop listening** in the header, or listen to a different talkgroup.
+**Stop** — click **Stop listening** on the card, in the listening desk, or in the header.
 
 ## Find talkgroups
 
@@ -21,8 +21,10 @@ Cold standby talkgroups are hidden by default; use **Show all standby** if you n
 
 The sidebar shows what you're tuned to, listener count, and playback status.
 
-- **Volume** — slider and mute in the desk (desktop also has a floating volume dock you can pin or dismiss)
+- **Volume** — slider and mute in the desk; a live audio level (VU) meter shows signal strength while listening
 - **Speech clarity** — optional; can reduce hiss between transmissions and lift voice clarity
+
+On desktop, a floating volume dock at the bottom also shows a VU meter. On mobile, a listening bar at the bottom provides volume and status while the desk is open.
 
 ## Connection status
 

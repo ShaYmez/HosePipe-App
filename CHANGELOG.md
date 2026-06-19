@@ -2,6 +2,17 @@
 
 User-facing release notes for HosePipe.
 
+## 0.5.1-rc.1 — 2026-06-19
+
+Release candidate.
+
+- Live audio level (VU) meters while listening — on the desk, volume dock, and talkgroup cards
+- Mobile listening bar for volume and status while the desk is open
+- Talkgroup cards stay in place when you listen (no grid jump)
+- Clearer stop controls on cards and in the listening desk
+- More stable card grid layout on mobile and desktop
+- Better cleanup when you stop listening (frees audio resources)
+
 ## 0.5.0-rc.1 — 2026-06-18
 
 Release candidate.

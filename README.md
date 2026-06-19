@@ -6,7 +6,7 @@ HosePipe is a live DMR talkgroup monitor in the browser. Watch what's active, tu
 
 ![HosePipe monitor](assets/screenshot-app.png)
 
-> **Release candidate 0.5.0-rc.1** — live at [hosepipe.freestar.network](https://hosepipe.freestar.network). Pre-stable; features may still change. See [CHANGELOG.md](CHANGELOG.md).
+> **Release candidate 0.5.1-rc.1** — live at [hosepipe.freestar.network](https://hosepipe.freestar.network). Pre-stable; features may still change. See [CHANGELOG.md](CHANGELOG.md).
 
 ## Try it
 
@@ -18,6 +18,7 @@ Feedback is welcome via [Issues](https://github.com/ShaYmez/HosePipe-App/issues)
 
 - Live talkgroup cards — see what's active, idle, or cooling down
 - **Listen** on any talkgroup, even while it's quiet
+- Live audio level (VU) meters while listening — on the desk, volume dock, and cards
 - Country flags on cards and a **Country** filter in the header
 - Search and filter by talkgroup, alias, callsign, or country
 - Recent activity trail alongside the live grid
@@ -28,7 +29,7 @@ Feedback is welcome via [Issues](https://github.com/ShaYmez/HosePipe-App/issues)
 
 1. Open **[hosepipe.freestar.network](https://hosepipe.freestar.network)**.
 2. Click **Listen** on a talkgroup card, or enter a TG number under **Listen to a talkgroup now**.
-3. Adjust volume in the listening desk (or the floating volume dock on the desktop at the bottom).
+3. Adjust volume in the listening desk (or the floating volume dock on desktop; mobile shows a listening bar at the bottom).
 4. Use **Filter talkgroups** or **Country** to narrow the grid.
 
 More detail: [Getting started](docs/getting-started.md)
@@ -36,9 +37,10 @@ More detail: [Getting started](docs/getting-started.md)
 ## Browser support
 
 Desktop **Chrome** / **Edge** or **Firefox** recommended. Mobile works; background audio depends on your device and browser.
+
 ## Release candidate
 
-HosePipe **0.5.0-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is not the final stable release yet — please use it, share feedback, and treat the link as pre-release.
+HosePipe **0.5.1-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is not the final stable release yet — please use it, share feedback, and treat the link as pre-release.
 
 ## Feedback
 
