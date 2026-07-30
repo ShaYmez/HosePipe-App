@@ -53,10 +53,6 @@ HosePipe **0.7.3-rc.1** is a release candidate at [hosepipe.freestar.network](ht
 
 Found a bug or have a suggestion? [Open an issue](https://github.com/ShaYmez/HosePipe-App/issues). Include the version shown in the app footer, your browser, and the talkgroup you were listening to.
 
-## Disclaimer
-
-HosePipe is educational/experimental software. Use of radio codec components may be subject to separate licensing or patent restrictions depending on jurisdiction.
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
