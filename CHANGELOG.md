@@ -2,6 +2,19 @@
 
 User-facing release notes for HosePipe.
 
+## 0.7.3-rc.1 — 2026-07-30
+
+Release candidate.
+
+- Collapsible **Listening desk**, **Activity trail**, and **Net Control** with useful previews when closed
+- When the desk is collapsed (and volume isn’t pinned to the screen), mute, a short volume slider, and a compact level meter stay on the same row as ON AIR / Stop
+- **Talkgroup details** shows source alias / detail in the header when collapsed
+- Optional **Net Control** session tools: check-in order, advance, notes, session clock, copy roster (saved in your browser)
+- Volume and mute are remembered between visits
+- Shareable listen links (`?tg=` / `#tg=`) open already tuned to that talkgroup
+- Quieter brief recovery while listening; level meters pause when there’s no audio
+- Speech clarity, favorites, and status chrome from 0.7.1 remain in place
+
 ## 0.7.1-rc.3 — 2026-07-30
 
 Release candidate.
@@ -13,15 +26,15 @@ Release candidate.
 - ON AIR uses the same soft green healthy treatment as Connected
 - Polished hero branding and mobile layout so HosePipe stays the focus
 - Quieter tap highlights on phones and tablets
-- Listening desk details, transport, and activity stay easy to open; Speech clarity stays collapsed until you need it
+- Listening desk details and activity stay easy to open; Speech clarity stays collapsed until you need it
 
 ## 0.6.2-rc.2 — 2026-07-29
 
 Release candidate.
 
-- Muting no longer hides the live VU meter
+- Muting no longer hides the live level meter
 - Volume slider feels more natural across the useful range
-- Audio transport refinements for clearer listening
+- Clearer listening experience during live traffic
 
 ## 0.6.1-rc.2 — 2026-07-29
 
@@ -30,29 +43,29 @@ Release candidate.
 - Browser-local favorites with card stars and a Favorites-only view
 - Exact talkgroup number filtering (including comma-separated IDs)
 - Smoother desktop card scrolling while listening
-- Live codec / bitrate info in the listening desk transport panel
+- Live listening stats in the listening desk
 - Broader stability improvements for reconnects and playback
 
 ## 0.5.1-rc.1 — 2026-06-19
 
 Release candidate.
 
-- Live audio level (VU) meters while listening — on the desk, volume dock, and talkgroup cards
+- Live audio level meters while listening — on the desk, volume dock, and talkgroup cards
 - Mobile listening bar for volume and status while the desk is open
 - Talkgroup cards stay in place when you listen (no grid jump)
 - Clearer stop controls on cards and in the listening desk
 - More stable card grid layout on mobile and desktop
-- Better cleanup when you stop listening (frees audio resources)
+- Better cleanup when you stop listening
 
 ## 0.5.0-rc.1 — 2026-06-18
 
 Release candidate.
 
 - Country flags on talkgroup cards and a country filter in the header
-- More reliable listening on mobile networks (improved reconnect handling)
+- More reliable listening on mobile networks
 - Mobile layout stays stable while the listening desk is open
 - Card layout and activity trail polish
-- **SYNCING** status only appears during genuine network recovery while listening
+- **SYNCING** status only appears during genuine recovery while listening
 
 ## 0.4.0-beta.3 — 2026-06-17
 
