@@ -2,6 +2,37 @@
 
 User-facing release notes for HosePipe.
 
+## 0.7.1-rc.3 — 2026-07-30
+
+Release candidate.
+
+- Expandable **Speech clarity** processor on desktop (3-band EQ, gate, compression) with saved settings
+- Live processor level meter when Speech clarity is on
+- Speech clarity On/Off on the mobile listening bar
+- Clearer connection status pills (Connected, Connecting, Reconnecting, Disconnected) with consistent styling
+- ON AIR status matches the Connected gold look
+- Polished hero branding and mobile layout so HosePipe stays the focus
+- Quieter tap highlights on phones and tablets
+- Listening desk details, transport, and activity stay easy to open; Speech clarity stays collapsed until you need it
+
+## 0.6.2-rc.2 — 2026-07-29
+
+Release candidate.
+
+- Muting no longer hides the live VU meter
+- Volume slider feels more natural across the useful range
+- Audio transport refinements for clearer listening
+
+## 0.6.1-rc.2 — 2026-07-29
+
+Release candidate.
+
+- Browser-local favorites with card stars and a Favorites-only view
+- Exact talkgroup number filtering (including comma-separated IDs)
+- Smoother desktop card scrolling while listening
+- Live codec / bitrate info in the listening desk transport panel
+- Broader stability improvements for reconnects and playback
+
 ## 0.5.1-rc.1 — 2026-06-19
 
 Release candidate.
