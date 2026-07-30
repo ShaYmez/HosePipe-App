@@ -9,8 +9,8 @@ Release candidate.
 - Expandable **Speech clarity** processor on desktop (3-band EQ, gate, compression) with saved settings
 - Live processor level meter when Speech clarity is on
 - Speech clarity On/Off on the mobile listening bar
-- Clearer connection status pills (Connected, Connecting, Reconnecting, Disconnected) with consistent styling
-- ON AIR status matches the Connected gold look
+- Clearer connection status pills (Connected, Connecting, Reconnecting, Disconnected) with compact, theme-consistent colours
+- ON AIR uses the same soft green healthy treatment as Connected
 - Polished hero branding and mobile layout so HosePipe stays the focus
 - Quieter tap highlights on phones and tablets
 - Listening desk details, transport, and activity stay easy to open; Speech clarity stays collapsed until you need it
