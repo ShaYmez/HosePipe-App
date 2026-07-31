@@ -38,6 +38,8 @@ On desktop, a floating volume dock at the bottom can also show a level meter. On
 
 Recently heard traffic appears in the sidebar. Collapse the panel to save space — the header still shows the latest call when available.
 
+On desktop you can drag sidebar panels to reorder them, or undock a panel to float it on the page. Use **Reset** under Sidebar to restore the default layout.
+
 ## Net Control
 
 Optional tools for running a net. Open **Net Control** in the sidebar (off by default).

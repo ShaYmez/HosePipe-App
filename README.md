@@ -6,7 +6,7 @@ HosePipe is a live DMR talkgroup monitor in the browser. Watch what's active, tu
 
 ![HosePipe monitor](assets/screenshot-app.png)
 
-> **Release candidate 0.7.3-rc.1** — live at [hosepipe.freestar.network](https://hosepipe.freestar.network). Pre-stable; features may still change. See [CHANGELOG.md](CHANGELOG.md).
+> **Release candidate 0.7.3-rc.2** — live at [hosepipe.freestar.network](https://hosepipe.freestar.network). Pre-stable; features may still change. See [CHANGELOG.md](CHANGELOG.md).
 
 ## Try it
 
@@ -28,6 +28,7 @@ Feedback is welcome via [Issues](https://github.com/ShaYmez/HosePipe-App/issues)
 - Volume / mute remembered between visits
 - Optional **Speech clarity** (desktop EQ/processor; mobile On/Off)
 - Collapsible sidebar panels with useful previews when closed
+- On desktop, rearrange sidebar panels or undock them to float on the page
 - Light, dark, and auto theme
 
 ## Quick start
@@ -47,7 +48,7 @@ Desktop **Chrome** / **Edge** or **Firefox** recommended. Mobile works; backgrou
 
 ## Release candidate
 
-HosePipe **0.7.3-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is not the final stable release yet — please use it, share feedback, and treat the link as pre-release. Notes: [Release candidate](docs/beta.md).
+HosePipe **0.7.3-rc.2** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is not the final stable release yet — please use it, share feedback, and treat the link as pre-release. Notes: [Release candidate](docs/beta.md).
 
 ## Feedback
 

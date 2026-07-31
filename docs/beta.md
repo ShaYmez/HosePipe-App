@@ -1,6 +1,6 @@
 # Release candidate notes
 
-HosePipe **0.7.3-rc.1** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is pre-stable — expect occasional rough edges before the stable release.
+HosePipe **0.7.3-rc.2** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is pre-stable — expect occasional rough edges before the stable release.
 
 ## What works well
 
@@ -9,6 +9,7 @@ HosePipe **0.7.3-rc.1** is a release candidate at [hosepipe.freestar.network](ht
 - Shareable listen links that open already tuned
 - Optional **Net Control** for check-in order during a net
 - Collapsible sidebar panels with useful previews when closed
+- On desktop, rearrange or undock sidebar panels to float on the page
 - Volume and mute remembered between visits
 - Expandable Speech clarity on desktop; Clarity On/Off on mobile
 - Live audio level meters while listening

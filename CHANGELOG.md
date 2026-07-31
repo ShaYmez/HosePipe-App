@@ -2,6 +2,14 @@
 
 User-facing release notes for HosePipe.
 
+## 0.7.3-rc.2 — 2026-07-31
+
+Release candidate.
+
+- On desktop, rearrange sidebar panels or undock them to float on the page (dock back, reset layout, resize)
+- Floating panels stay with the page as you scroll
+- Collapsible Listening desk / Activity trail / Net Control and listen comfort from 0.7.3-rc.1 remain in place
+
 ## 0.7.3-rc.1 — 2026-07-30
 
 Release candidate.
