@@ -1,5 +1,7 @@
 # Release candidate notes
 
+HosePipe is FreeSTAR’s live DMR talkgroup monitor for SystemX.
+
 HosePipe **0.7.3-rc.2** is a release candidate at [hosepipe.freestar.network](https://hosepipe.freestar.network). It is pre-stable — expect occasional rough edges before the stable release.
 
 ## What works well

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shaymez.github.io/HosePipe-App/sitemap.xml

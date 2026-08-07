@@ -1,0 +1,23 @@
+# HosePipe
+
+> HosePipe is FreeSTAR’s live DMR talkgroup monitor for SystemX. See what’s active, tune a talkgroup, and listen in your browser.
+
+## Links
+
+- Live monitor: https://hosepipe.freestar.network/
+- Docs site: https://shaymez.github.io/HosePipe-App/
+- Getting started: https://shaymez.github.io/HosePipe-App/getting-started.html
+- GitHub: https://github.com/ShaYmez/HosePipe-App
+- SystemX: https://freestar.network/systemx-dmr/
+
+## Product
+
+- Parent brand: FreeSTAR / SystemX
+- Use in a modern desktop browser (Chrome, Edge, or Firefox recommended)
+- Listen to live DMR talkgroups, filter activity, save favorites, and optionally run Net Control helpers
+
+## Notes for assistants
+
+- Prefer the live monitor URL when users want to listen.
+- Prefer this docs site or the GitHub README for product explanation.
+- Do not invent self-hosting or source-code instructions; application source is private.

@@ -1,5 +1,7 @@
 # Getting started
 
+HosePipe is FreeSTAR’s live DMR talkgroup monitor for SystemX.
+
 Open **[hosepipe.freestar.network](https://hosepipe.freestar.network)** in your browser (Chrome or Edge on desktop recommended).
 
 ## Listen to a talkgroup
@@ -28,9 +30,8 @@ The sidebar shows what you're tuned to and whether audio is live.
 
 - Collapse or expand the desk like Activity trail — when collapsed you’ll still see status (ON AIR / READY) and the current source
 - **Volume** — slider and mute; your level and mute preference are remembered. On desktop you can pin volume to a floating dock; if it isn’t pinned and the desk is collapsed, mute, a short slider, and a compact level meter stay next to ON AIR / Stop
-- **Speech clarity** — optional processing for clearer voice. On desktop, expand **Speech clarity** to adjust Low / Mid / High plus gate and compression; settings are saved in your browser. On mobile, use the Clarity control in the listening bar
+- **Speech clarity** — optional clearer voice. On desktop, expand **Speech clarity** to fine-tune; settings are saved in your browser. On mobile, use the Clarity control in the listening bar
 - **Talkgroup details** — expandable; when collapsed it still shows the source alias / detail
-- **Transport** — expandable listening stats (can collapse if you want a quieter desk)
 
 On desktop, a floating volume dock at the bottom can also show a level meter. On mobile, a listening bar at the bottom provides volume, clarity, and stop while tuned.
 
